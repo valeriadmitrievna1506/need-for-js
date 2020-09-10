@@ -48,8 +48,11 @@ body {
   background-color: rgb(52, 66, 26);
 }
 .start {
+  z-index: 1;
   font-family: "Montserrat", sans-serif;
-  margin: 50px 20px;
+  left:50%;
+  margin-left: -80px;
+  margin-top: 100px;
   position: absolute;
   padding: 15px 10px;
   border: 3px solid rgb(82, 24, 24);
